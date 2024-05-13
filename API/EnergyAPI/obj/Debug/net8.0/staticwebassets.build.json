@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Ti4PWs6dUtuJuSSua58v8/V4IaiUM1Rzcomwy/jiVYM=",
+  "Source": "EnergyAPI",
+  "BasePath": "_content/EnergyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnergyAPI\\wwwroot",
+      "Source": "EnergyAPI",
+      "ContentRoot": "C:\\Users\\husey\\source\\repos\\API\\EnergyAPI\\wwwroot\\",
+      "BasePath": "_content/EnergyAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\husey\\source\\repos\\API\\EnergyAPI\\wwwroot\\Index.cshtml",
+      "SourceId": "EnergyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\husey\\source\\repos\\API\\EnergyAPI\\wwwroot\\",
+      "BasePath": "_content/EnergyAPI",
+      "RelativePath": "Index.cshtml",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot\\Index.cshtml"
+    }
+  ]
+}
